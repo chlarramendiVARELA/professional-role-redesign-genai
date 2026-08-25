@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
+title: "Professional Role Redesign in the Age of Generative AI: A Framework for Identifying Automation, Augmentation and Distinctive Human Value"
+version: 1.0.0
+date-released: 2026-08-25
+authors:
+  - family-names: "Hernando de Larramendi Varela"
+    given-names: "María del Coro"
+abstract: "Public edition of a Master's Thesis proposing a 4V task-analysis model for AI-enabled job redesign, expertise continuity and Responsible AI."
+keywords:
+  - generative AI
+  - job redesign
+  - expertise
+  - reskilling
+  - project management
+  - responsible AI
